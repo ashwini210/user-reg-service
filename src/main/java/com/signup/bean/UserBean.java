@@ -39,10 +39,7 @@ public class UserBean implements Serializable {
 	private String password;
 	private String cpassword;
 	private Long mobile;
-//private String address;
-//private String address;
-//private String address;
-//private String address;
+//1234
 	
 	/**
 	 * For access
